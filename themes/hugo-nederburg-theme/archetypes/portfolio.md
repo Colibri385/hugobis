@@ -1,7 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: false
+title: "Name of the work 1"
+draft: true
 image: ""
 showonlyimage: false
 categories: ["design"]
